@@ -3,11 +3,11 @@ This is a vcf visualization tool. Visualizing allelic depth distribution.
 
 
 ##Prerequisites:
-* python (>=2.7)
-* seaborn
-* numpy
-* pandas
-* matplotlib
+* [python (>=2.7)](https://www.python.org/downloads/)
+* [seaborn](http://stanford.edu/~mwaskom/software/seaborn/index.html)
+* [numpy](http://www.numpy.org/)
+* [pandas](http://pandas.pydata.org/)
+* [matplotlib](http://matplotlib.org/)
 
 
 ##Usage:
